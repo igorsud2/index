@@ -1,0 +1,47 @@
+body {
+    background-color: #606060;
+    margin-bottom: 200px;
+}
+.catcolor {
+    color: violet;
+
+}
+#all {
+margin-left: 200px;
+
+}
+
+#relexcat {
+border: 30px solid;
+border-radius: 70px;
+border-top-color: rgb(96, 143, 204);
+border-bottom-color: rgb(96, 143, 204);
+border-left-color:red;
+border-right-color: green;
+}
+.colortext {
+    font-size: 23px;
+}
+.wrapper {
+   display: grid;
+   grid-template-columns: 100px 100px 180px 100px;
+   grid-gap: 6%;
+   font-size: 19px;
+   font-family: Arial;
+   
+}
+.box{
+border: 1px solid; 
+padding: 10px;
+background:#608fcc;
+}
+h2 {
+    font-family: Comic Sans MS;
+}
+h3{
+    font-family: Arial;
+}
+ul {
+    font-family: Arial;
+    font-size: 17px;
+}
